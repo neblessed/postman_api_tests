@@ -1,0 +1,39 @@
+{
+	"id": "cc75bb97-23c8-4b60-9f46-466b73887b7b",
+	"name": "🎇 API Testing Reqres ENV",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "numOfPage",
+			"value": "2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "authToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "fullName",
+			"value": "Jimmy Jones Jr.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "jobTitle",
+			"value": "Personal Killer",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-04-03T18:57:29.327Z",
+	"_postman_exported_using": "Postman/10.12.10-230331-0804"
+}
